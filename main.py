@@ -4,7 +4,6 @@ import platform_exports.unit_tools
 import polyhedron_heuristics.heterogeneous_annealing
 import platform_exports
 import polyhedron_heuristics.schedule_tools
-import polyhedron_heuristics.vibration_simulator
 
 def main():
     task_builder = platform_exports.task_tools.file_task_builder("examples/paper_task_set.csv")
