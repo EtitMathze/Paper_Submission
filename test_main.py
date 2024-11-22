@@ -1,4 +1,3 @@
-import polyhedron_heuristics.block_step
 import polyhedron_heuristics.heterogeneous_annealing
 import test
 import polyhedron_heuristics.schedule_tools
