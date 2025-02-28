@@ -1,0 +1,9 @@
+Name;ExTime;ID;ExUnit;Path;Crit;Deadline;AccUnit;AccWindow;RelWindows;RelTasks;AccNumber;AccValidExec;Res
+CT1;200,800;1;0,1;\home\test1;1;300;1,2;20/25,26/27;;;-1,-1;0/1,0/1;1
+CT2;250;2;0;\home\test2;1;500;2;24/25;;;-1;0;1
+CT3;150;3;0;\home\test3;1;250;;;100/150;4;;;1
+CT4;150;4;0;\home\test4;1;250;1;40/50;;;-1;0;1
+PT0;10,5;5;0,2;\home\test5;0;;;;;;;;1
+E4;50;6;1;\home\test6;1;100;2;40/50;;;-1;1;1
+E5;100;7;0;\home\test7;1;150;1;60/80;;;-1;0;1
+E6;300;8;2;\home\test8;1;500;3;90/200;;;-1;2;1

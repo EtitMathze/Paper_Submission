@@ -1,5 +1,6 @@
 import math
 import sys
+import time
 from typing import Any
 import numpy
 from numpy.core.multiarray import array as array
@@ -693,6 +694,7 @@ class annealing_schedule_creator(polyhedron_heuristics.schedule_tools.abstract_s
         ],
         positive_features: list[str] = [UNIT_SAVINGS_STR],
     ) -> None:
+        self.timing_list_ = []
         self.start_with_zero_ = start_with_zero
         self.finishing_score_ = finishing_score
         self.do_iteratively_ = iterative
@@ -735,7 +737,16 @@ class annealing_schedule_creator(polyhedron_heuristics.schedule_tools.abstract_s
                             + str((current_start + access_window.get_stop()) % self.cost_function.max_runtime_)
                         )
 
+        total_runtime = time.time() - self.start_time_
+        timing_tuple = [total_runtime, e]
+        self.timing_list_.append(timing_tuple)
         return e <= self.finishing_score_
+
+    def get_timing_tuple(self):
+        """
+        Function to return the timing of the annealing process.
+        """
+        return self.timing_list_
 
     def create_upper_bounds_units(
         self, tasks: list[task], unit_dict: dict[task, dict[int, int]], to_filled_lentgh: int
@@ -807,6 +818,7 @@ class annealing_schedule_creator(polyhedron_heuristics.schedule_tools.abstract_s
         self, sched_tasks: list[task], units: list[platform_exports.unit_tools.unit]
     ) -> polyhedron_heuristics.schedule_tools.abstract_schedule:
 
+        self.start_time_ = time.time()
         self.cost_function = basic_cost_function(
             sched_tasks,
             units,

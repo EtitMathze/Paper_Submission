@@ -1,0 +1,107 @@
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 1 Task Relation Ratio: 0.0 | Runtime : 1672.6432970523833, Max: 2727.9380502700806, Min: 82.29030966758728
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 1 Task Relation Ratio: 1.0 | Runtime : 1984.4610867023468, Max: 2776.883842229843, Min: 45.61536526679993
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 1 Task Relation Ratio: 2.0 | Runtime : 1457.1815341949464, Max: 2803.9990978240967, Min: 44.34962224960327
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 1 Task Relation Ratio: 3.0 | Runtime : 1116.5049797058105, Max: 2735.362927675247, Min: 58.88964366912842
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 439.344074678421, Max: 1705.46670460701, Min: 50.70191168785095
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 2 Task Relation Ratio: 1.0 | Runtime : 947.5110437870026, Max: 2824.4956073760986, Min: 50.691964626312256
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 2 Task Relation Ratio: 2.0 | Runtime : 1860.6242137432098, Max: 3232.820913553238, Min: 51.4920380115509
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 1219.991989850998, Max: 3149.2837970256805, Min: 4.249542951583862
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 32.196421432495114, Max: 69.34891724586487, Min: 0.05690336227416992
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 1315.2972437858582, Max: 3248.2416162490845, Min: 7.727949380874634
+Slack: 10, Tasks: 6, Units: 4, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 47.54606795310974, Max: 154.43601751327515, Min: 1.6249265670776367
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 1 Task Relation Ratio: 0.0 | Runtime : 4695.9066451072695, Max: 5987.7952246665955, Min: 180.52286291122437
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 1 Task Relation Ratio: 1.0 | Runtime : 5018.004721021653, Max: 5893.5302476882935, Min: 2324.878270149231
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 1 Task Relation Ratio: 2.0 | Runtime : 4516.022010135651, Max: 5811.841812610626, Min: 123.2638533115387
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 1 Task Relation Ratio: 3.0 | Runtime : 3422.19874958992, Max: 5822.68611240387, Min: 121.37685632705688
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 2817.7728045463564, Max: 5671.011249303818, Min: 171.30360984802246
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 2 Task Relation Ratio: 1.0 | Runtime : 3024.0788679599764, Max: 5596.120333194733, Min: 125.45854496955872
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 2 Task Relation Ratio: 2.0 | Runtime : 3376.646601819992, Max: 5678.286288261414, Min: 151.12021803855896
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 2 Task Relation Ratio: 3.0 | Runtime : 4450.859293317795, Max: 5571.933742046356, Min: 566.4624795913696
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 3542.83399848938, Max: 5515.957175016403, Min: 99.07772660255432
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 3415.9934595108034, Max: 5517.491089820862, Min: 59.49523663520813
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 1808.4420857429504, Max: 5387.522309064865, Min: 95.28417944908142
+Slack: 10, Tasks: 6, Units: 5, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 3170.6779975891113, Max: 5506.397023677826, Min: 88.67873525619507
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 1 Task Relation Ratio: 0.0 | Runtime : 2887.147069978714, Max: 9066.987123966217, Min: 289.7842786312103
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 5947.640810537338, Max: 9220.682005882263, Min: 756.2773127555847
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 2 Task Relation Ratio: 1.0 | Runtime : 7143.103931999207, Max: 9137.627597808838, Min: 276.17054200172424
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 2 Task Relation Ratio: 2.0 | Runtime : 7783.218032169342, Max: 10123.153156995773, Min: 1400.539757490158
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 2 Task Relation Ratio: 3.0 | Runtime : 5864.81751203537, Max: 9710.48526597023, Min: 245.36128759384155
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 5943.520436477661, Max: 9629.101113080978, Min: 78.44570446014404
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 5534.706191110611, Max: 9553.171283960342, Min: 120.1527042388916
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 5453.423003959656, Max: 6805.865864753723, Min: 111.96526432037354
+Slack: 10, Tasks: 6, Units: 6, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 2804.7786383628845, Max: 6852.988338947296, Min: 93.79205083847046
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 1 Task Relation Ratio: 0.0 | Runtime : 917.2593016624451, Max: 3293.324669599533, Min: 64.12225651741028
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 1 Task Relation Ratio: 1.0 | Runtime : 2686.125493192673, Max: 3360.4587004184723, Min: 106.7363007068634
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 1 Task Relation Ratio: 3.0 | Runtime : 1456.2982078075408, Max: 3654.1195995807648, Min: 60.599918603897095
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 2795.0064947605133, Max: 4859.767252206802, Min: 50.184581995010376
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 2 Task Relation Ratio: 1.0 | Runtime : 1177.154718542099, Max: 3339.9708750247955, Min: 25.215192079544067
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 2 Task Relation Ratio: 2.0 | Runtime : 2008.3135905265808, Max: 3330.2763471603394, Min: 29.052331686019897
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 2 Task Relation Ratio: 3.0 | Runtime : 2006.1727399349213, Max: 3322.846323490143, Min: 39.47270369529724
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 36.67905282974243, Max: 55.157413959503174, Min: 12.972882747650146
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 2781.0270218372343, Max: 3288.5867495536804, Min: 1706.4210052490234
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 35.04997396469116, Max: 82.06027722358704, Min: 1.7347338199615479
+Slack: 10, Tasks: 7, Units: 4, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 13.885475969314575, Max: 32.68082904815674, Min: 2.1774721145629883
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 1 Task Relation Ratio: 0.0 | Runtime : 3578.2618617534636, Max: 6328.566879987717, Min: 190.8472547531128
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 1 Task Relation Ratio: 2.0 | Runtime : 5996.733063745499, Max: 6349.518596410751, Min: 4753.146469116211
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 1 Task Relation Ratio: 3.0 | Runtime : 6350.90742764473, Max: 6367.465718507767, Min: 6329.923007488251
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 4355.48207821846, Max: 6321.502758264542, Min: 161.3423366546631
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 2 Task Relation Ratio: 1.0 | Runtime : 4371.491707754135, Max: 7904.50648355484, Min: 108.92408084869385
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 2 Task Relation Ratio: 2.0 | Runtime : 6172.9531434059145, Max: 7831.517333745956, Min: 127.43318700790405
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 2 Task Relation Ratio: 3.0 | Runtime : 6135.553080606461, Max: 7652.775146007538, Min: 237.68544101715088
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 2181.0429315090178, Max: 7305.872278690338, Min: 98.09574484825134
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 4414.39103307724, Max: 7311.557762384415, Min: 129.71750736236572
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 2972.3656785964968, Max: 7284.523526191711, Min: 81.58870887756348
+Slack: 10, Tasks: 7, Units: 5, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 1556.5019021511077, Max: 7356.730398893356, Min: 66.57075262069702
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 1 Task Relation Ratio: 0.0 | Runtime : 11526.013798618316, Max: 12799.583759307861, Min: 7962.6687042713165
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 1 Task Relation Ratio: 1.0 | Runtime : 10169.686502075196, Max: 12215.149325609207, Min: 2901.096063375473
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 7724.088174200058, Max: 11451.186369895935, Min: 2722.3479340076447
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 2 Task Relation Ratio: 3.0 | Runtime : 9247.599556541443, Max: 11553.753484725952, Min: 210.51952123641968
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 6243.146738576889, Max: 11277.365679264069, Min: 201.9631063938141
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 8259.723061513901, Max: 11411.359186649323, Min: 173.82358241081238
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 4663.924915075302, Max: 11293.141429185867, Min: 240.30036902427673
+Slack: 10, Tasks: 7, Units: 6, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 9150.094069433213, Max: 11388.969720125198, Min: 233.693687915802
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 1 Task Relation Ratio: 0.0 | Runtime : 2753.4325189113615, Max: 5228.9710958004, Min: 112.71615362167358
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 1 Task Relation Ratio: 1.0 | Runtime : 1540.1076976776124, Max: 5128.356476783752, Min: 110.93454647064209
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 1 Task Relation Ratio: 3.0 | Runtime : 4220.175011634827, Max: 5271.918704986572, Min: 137.6517345905304
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 1337.8899778842926, Max: 5099.712934494019, Min: 119.50527739524841
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 2 Task Relation Ratio: 1.0 | Runtime : 3079.9012477874758, Max: 5162.1146013736725, Min: 7.6194562911987305
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 2 Task Relation Ratio: 2.0 | Runtime : 3118.0031525611876, Max: 5153.182611465454, Min: 92.10867214202881
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 2 Task Relation Ratio: 3.0 | Runtime : 4147.282662534713, Max: 5201.782979726791, Min: 120.32629942893982
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 1082.0142325878144, Max: 5120.518048763275, Min: 50.44915747642517
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 2063.446277618408, Max: 5075.818310022354, Min: 32.07164978981018
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 3064.6041325569154, Max: 5086.961588859558, Min: 38.738048791885376
+Slack: 10, Tasks: 8, Units: 4, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 4105.601975774765, Max: 5133.574751853943, Min: 59.86885452270508
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 1 Task Relation Ratio: 0.0 | Runtime : 5028.982411003113, Max: 9522.33565735817, Min: 187.93044185638428
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 1 Task Relation Ratio: 2.0 | Runtime : 8923.155579423905, Max: 9823.01334810257, Min: 5541.655647993088
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 1145.502622795105, Max: 3030.1157824993134, Min: 170.82485032081604
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 2 Task Relation Ratio: 1.0 | Runtime : 4618.030070018768, Max: 9688.970871686935, Min: 232.79331493377686
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 6200.516322565079, Max: 9558.706236839294, Min: 245.43790864944458
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 5828.919170188904, Max: 9668.955039978027, Min: 104.67698621749878
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 5295.254902076721, Max: 9656.713692903519, Min: 183.30373430252075
+Slack: 10, Tasks: 8, Units: 5, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 4001.577066898346, Max: 9715.229649305344, Min: 132.1316933631897
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 2 Task Relation Ratio: 0.0 | Runtime : 16072.784730958938, Max: 16372.201611995697, Min: 15102.497883558273
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 2 Task Relation Ratio: 1.0 | Runtime : 13213.222311544418, Max: 16476.325679540634, Min: 474.89453649520874
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 8482.433385229111, Max: 15981.939275503159, Min: 332.02796053886414
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 9803.279033660889, Max: 16194.621153593063, Min: 378.3326909542084
+Slack: 10, Tasks: 8, Units: 6, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 12969.19430885315, Max: 16352.206602096558, Min: 450.26344108581543

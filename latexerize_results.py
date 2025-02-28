@@ -135,8 +135,8 @@ def turn_results_into_latex_string(input_results : list[results_line]):
 
 
 def main():
-    in_filename = "test/slack50_runtime_results.txt"
-    out_filename = "latex/slack50_runtime_results_latex.txt"
+    in_filename = "slack20_runtime_results.txt"
+    out_filename = "latex/slack20_runtime_results_latex.txt"
     result_list = []
 
     with open(in_filename,"r") as f:

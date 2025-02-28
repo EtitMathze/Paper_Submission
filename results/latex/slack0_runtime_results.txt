@@ -1,0 +1,93 @@
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 2 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 2 Task Relation Ratio: 3.0 | Runtime : 3016.878610563278, Max: 3110.1110751628876, Min: 2864.6715664863586
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 2352.401927900314, Max: 3017.6251249313354, Min: 3.6597678661346436
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 2312.5896500587464, Max: 3052.4373915195465, Min: 0.34424829483032227
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 3 Task Relation Ratio: 2.0 | Runtime : 2304.220547246933, Max: 2962.6062984466553, Min: 4.722238779067993
+Slack: 0, Tasks: 6, Units: 4, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 2368.3650901794435, Max: 3039.9418518543243, Min: 0.3783555030822754
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 2 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 4174.96419005394, Max: 5315.433872699738, Min: 14.191033363342285
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 4157.757017374039, Max: 5379.162306547165, Min: 76.19798636436462
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 3 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 5, Unit Types: 3 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 2 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 3 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 3 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 3 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 6, Units: 6, Unit Types: 3 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 2 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 3 Task Relation Ratio: 0.0 | Runtime : 2905.1426223754884, Max: 3642.1198976039886, Min: 2.4473321437835693
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 3 Task Relation Ratio: 1.0 | Runtime : 2893.468414402008, Max: 3657.5092298984528, Min: 5.895013332366943
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 3 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 4, Unit Types: 3 Task Relation Ratio: 3.0 | Runtime : 2911.944855928421, Max: 3668.410164117813, Min: 2.1251490116119385
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 2 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 3 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 3 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 3 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 5, Unit Types: 3 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 2 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 3 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 3 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 3 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 7, Units: 6, Unit Types: 3 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 2 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 3 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 3 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 3 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 4, Unit Types: 3 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 1 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 1 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 1 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 1 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 2 Task Relation Ratio: 0.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 2 Task Relation Ratio: 1.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 2 Task Relation Ratio: 2.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 2 Task Relation Ratio: 3.0 | FAILURE!
+Slack: 0, Tasks: 8, Units: 5, Unit Types: 3 Task Relation Ratio: 0.0 | FAILURE!
